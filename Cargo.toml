@@ -3,7 +3,7 @@ name = "gcd"
 version = "0.1.0"
 edition = "2021"
 authors = ["Dae Choi <daechoi@outlook.com>"]
-description = "Calculates GCD using Euler's algorithm"
+description = "Calculates GCD using Euclid's algorithm"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
