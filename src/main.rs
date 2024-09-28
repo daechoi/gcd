@@ -20,6 +20,7 @@ fn gcd(m: i64, n: i64) -> i64 {
         gcd(n, r)
     }
 }
+
 fn main() {
     let cli = Cli::parse();
     println!(
